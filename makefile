@@ -1,5 +1,5 @@
-CC = gcc -Wall
-SRCS = ./*.c
+CC = g++ -Wall
+SRCS = ./*.cpp
 OBS = ./*.o
 
 # The following line means that do SRC first.
